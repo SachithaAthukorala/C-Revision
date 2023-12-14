@@ -3,7 +3,7 @@
 int main(){
 
 printf("Sachitha Athukorala\n");
-printf("28/07/2001\n");
+printf("2/06/20xx\n");
 printf("0712345678");
 
 
